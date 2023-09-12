@@ -1,0 +1,3 @@
+98332722850;1234570;medellin;antioquia;frank;2058529895;calle 45;auxil 1;auxil 2;auxil 3;auxil 4;1;10;30;30;1;500001;cajas;150000;75000
+98332722851;1234570;medellin;antioquia;frank;2058529895;calle 45;auxil 1;auxil 2;auxil 3;auxil 4;1;10;30;30;1;25000;cajas;200001;66000
+98332722852;1234570;medellin;antioquia;frank;2058529895;calle 45;auxil 1;auxil 2;auxil 3;auxil 4;1;10;30;30;1;500001;cajas;200001;98022
