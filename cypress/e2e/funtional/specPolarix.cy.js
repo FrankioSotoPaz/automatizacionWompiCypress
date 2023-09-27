@@ -1,6 +1,6 @@
 describe("Polarix", () => {
   before(() => {
-    cy.loginPolarix("1094970294", "JUlio2023**.");
+    cy.loginPolarix("1094970294", "OCtubre2023**.");
   });
 
   beforeEach(() => {});

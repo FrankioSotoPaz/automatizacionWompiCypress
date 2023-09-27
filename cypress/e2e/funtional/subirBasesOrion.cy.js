@@ -1,4 +1,4 @@
-describe("Flujo subir bases", () => {
+describe("Subir bases", () => {
   before(() => {
     cy.login("1094970294", "1094970294");
 
@@ -21,7 +21,7 @@ describe("Flujo subir bases", () => {
       cy.contains("ul li a", "Subir Bases").click({ force: true });
       cy.get("#cliente").select(data.cliente, { force: true });
       cy.wait(3000);
-      cy.get("#bases").selectFile("cypress/files/208449.txt");
+      cy.get("#bases").selectFile("cypress/files/" + data.fileName + ".txt");
       cy.get("#btnSubir").click();
 
       cy.on("uncaught:exception", (err, runnable) => {

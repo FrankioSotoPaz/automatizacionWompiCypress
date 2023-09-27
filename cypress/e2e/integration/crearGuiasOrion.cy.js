@@ -54,10 +54,16 @@ describe("Creación de guías Paqueteo", () => {
           orden_servicio: "170915",
         },
       ],
-    });
+    }).then((response) => {
+      const data = response.body.data[0];
 
-    cy.on("uncaught:exception", (err, runnable) => {
-      return false;
+      expect(data).to.have.property("guia");
+      expect(data).to.have.property("status");
+      expect(data).to.have.property("url");
     });
+  });
+
+  cy.on("uncaught:exception", (err, runnable) => {
+    return false;
   });
 });
