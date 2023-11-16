@@ -1,5 +1,0 @@
-99333742970;1234570;medellin;antioquia;frank;2058529895;calle 45;auxil 1;auxil 2;auxil 3;auxil 4
-99333742971;1234570;medellin;antioquia;frank;2058529895;calle 45;auxil 1;auxil 2;auxil 3;auxil 4
-99333742972;1234570;medellin;antioquia;frank;2058529895;calle 45;auxil 1;auxil 2;auxil 3;auxil 4
-99333742973;1234570;medellin;antioquia;frank;2058529895;calle 45;auxil 1;auxil 2;auxil 3;auxil 4
-99333742974;1234570;medellin;antioquia;frank;2058529895;calle 45;auxil 1;auxil 2;auxil 3;auxil 4

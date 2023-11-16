@@ -1,15 +1,7 @@
 module.exports = {
   e2e: {
     setupNodeEvents(on, config) {
-      baseUrl: "https://pruebasorion.infokairos.com.co:2904/api";
+      baseUrl: "https://checkout.co.uat.wompi.dev/l/stagtest_VPOS_bdQraT";
     },
   },
 };
-
-/*const { defineConfig } = require("cypress");
-
-module.exports = defineConfig({
-  e2e: {
-    baseUrl: "https://pruebasorion.infokairos.com.co:2904/api",
-  },
-});*/
